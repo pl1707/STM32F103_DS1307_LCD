@@ -1,4 +1,4 @@
- Dự án đọc và hiển thị thời gian từ đồng hồ thời gian thực DS1307 lên màn hình LCD thông qua giao tiếp I2C.
+Dự án đọc và hiển thị thời gian từ đồng hồ thời gian thực DS1307 lên màn hình LCD thông qua giao tiếp I2C.
  
 Các thư viện: Bao gồm các tệp tiêu đề cần thiết như main.h, i2c-lcd.h, và stdio.h.
 
