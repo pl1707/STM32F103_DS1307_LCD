@@ -20,3 +20,22 @@ SET_TIME: Thiết lập thời gian cho DS1307 bằng cách chuyển đổi giá
 
 GET_TIME: Đọc thời gian từ DS1307 và chuyển đổi từ BCD sang thập phân.
 
+![Picture](https://github.com/pl1707/STM32F103_DS1307_LCD/assets/166418048/30680e2b-2cc5-478f-b30b-68838fde26e8)
+
+![Picture2](https://github.com/pl1707/STM32F103_DS1307_LCD/assets/166418048/ee6bcd55-0d21-4f30-9345-e2fac34720b3)
+
+3.3V (STM32) -> VCC (DS1307)
+
+3.3V (STM32) -> VCC (LCD)
+
+GND (STM32) -> GND (DS1307)
+
+GND (STM32) -> GND (LCD)
+
+PB7 (STM32) -> SDA (DS1307)
+
+PB7 (STM32) -> SDA (LCD)
+
+PB6 (STM32) -> SCL (DS1307)
+
+PB6 (STM32) -> SCL (LCD)
